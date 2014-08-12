@@ -3,8 +3,8 @@
   <display-name>appengine-modules-ear</display-name>
   <module>
     <web>
-      <web-uri>fantaccaniti-war-0.0.1-SNAPSHOT.war</web-uri>
-      <context-root>/fantaccaniti-war</context-root>
+      <web-uri>fantabet-war-0.0.1-SNAPSHOT.war</web-uri>
+      <context-root>/fantabet-war</context-root>
     </web>
   </module>
   <library-directory>lib</library-directory>

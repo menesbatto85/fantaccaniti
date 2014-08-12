@@ -2,14 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.cranatic</groupId>
-  <artifactId>fantaccaniti-ear</artifactId>
+  <groupId>com.cranium</groupId>
+  <artifactId>fantabet-ear</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>ear</packaging>
 
   <parent>
-    <groupId>com.cranatic</groupId>
-    <artifactId>fantaccaniti</artifactId>
+    <groupId>com.cranium</groupId>
+    <artifactId>fantabet</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
 
@@ -35,8 +35,8 @@
 
   <dependencies>
     <dependency>
-      <groupId>com.cranatic</groupId>
-      <artifactId>fantaccaniti-war</artifactId>
+      <groupId>com.cranium</groupId>
+      <artifactId>fantabet-war</artifactId>
       <version>0.0.1-SNAPSHOT</version>
       <type>war</type>
     </dependency>
